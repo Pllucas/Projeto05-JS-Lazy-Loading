@@ -1,2 +1,2 @@
-# Projeto05-JS-Box-Shadow
+# Projeto05-JS-Lazy-Loading
  
